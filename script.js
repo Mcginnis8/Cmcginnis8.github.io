@@ -10,7 +10,7 @@ window.onload = function() {
     $('#Node1').hide(0);
     $('#Node2').hide(0);
     $('#Node3').hide(0);
-    $('.pop-up').fadeIn(500);
+    $('.pop-up').fadeIn(1000);
   });
   $('.pop-up span').click(function() {
     $('.pop-up').hide(500);
